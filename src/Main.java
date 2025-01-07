@@ -76,6 +76,5 @@ public class Main {
         totalEmployees = totalEmployees + 94;
         totalHours =totalEmployees * hoursOfEachEmployee;
         System.out.println("If a company has " + totalEmployees + " employees, then " + totalHours +  " hours of work can be completed between employees.");
-
     }
 }
